@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Syfaro/telegram-bot-api",
+			"repository": "https://github.com/Syfaro/telegram-bot-api",
+			"revision": "60337023c51a0362a2e5df9801dd7ea70ef83cdc",
+			"branch": "master"
+		}
+	]
+}
